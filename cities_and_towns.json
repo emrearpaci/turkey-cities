@@ -1,0 +1,1443 @@
+{
+"1": {
+"city_name": "Adana",
+"city_plate": "01",
+"towns": {
+"1": "Seyhan",
+"2": "Yüreğir",
+"3": "Sarıçam",
+"4": "Çukurova",
+"5": "Aladağ(Karsantı)",
+"6": "Ceyhan",
+"7": "Feke",
+"8": "İmamoğlu",
+"9": "Karaisalı",
+"10": "Karataş",
+"11": "Kozan",
+"12": "Pozantı",
+"13": "Saimbeyli",
+"14": "Tufanbeyli",
+"15": "Yumurtalık"
+}
+},
+"2": {
+"city_name": "Adıyaman",
+"city_plate": "02",
+"towns": {
+"16": "Adıyaman",
+"17": "Besni",
+"18": "Çelikhan",
+"19": "Gerger",
+"20": "Gölbaşı",
+"21": "Kahta",
+"22": "Samsat",
+"23": "Sincik",
+"24": "Tut"
+}
+},
+"3": {
+"city_name": "Afyonkarahisar",
+"city_plate": "03",
+"towns": {
+"25": "Afyonkarahisar",
+"26": "Başmakçı",
+"27": "Bayat",
+"28": "Bolvadin",
+"29": "Çay",
+"30": "Çobanlar",
+"31": "Dazkırı",
+"32": "Dinar",
+"33": "Emirdağ",
+"34": "Evciler",
+"35": "Hocalar",
+"36": "İhsaniye",
+"37": "İscehisar",
+"38": "Kızılören",
+"39": "Sandıklı",
+"40": "Sincanlı(Sinanpaşa)",
+"41": "Sultandağı",
+"42": "Şuhut"
+}
+},
+"4": {
+"city_name": "Ağrı",
+"city_plate": "04",
+"towns": {
+"43": "Ağrı",
+"44": "Diyadin",
+"45": "Doğubeyazıt",
+"46": "Eleşkirt",
+"47": "Hamur",
+"48": "Patnos",
+"49": "Taşlıçay",
+"50": "Tutak"
+}
+},
+"5": {
+"city_name": "Amasya",
+"city_plate": "05",
+"towns": {
+"51": "Amasya",
+"52": "Göynücek",
+"53": "Gümüşhacıköy",
+"54": "Hamamözü",
+"55": "Merzifon",
+"56": "Suluova",
+"57": "Taşova"
+}
+},
+"6": {
+"city_name": "Ankara",
+"city_plate": "06",
+"towns": {
+"58": "Altındağ",
+"59": "Çankaya",
+"60": "Etimesgut",
+"61": "Keçiören",
+"62": "Mamak",
+"63": "Sincan",
+"64": "Yenimahalle",
+"65": "Gölbaşı",
+"66": "Pursaklar",
+"67": "Akyurt",
+"68": "Ayaş",
+"69": "Bala",
+"70": "Beypazarı",
+"71": "Çamlıdere",
+"72": "Çubuk",
+"73": "Elmadağ",
+"74": "Evren",
+"75": "Güdül",
+"76": "Haymana",
+"77": "Kalecik",
+"78": "Kazan",
+"79": "Kızılcahamam",
+"80": "Nallıhan",
+"81": "Polatlı",
+"82": "Şereflikoçhisar"
+}
+},
+"7": {
+"city_name": "Antalya",
+"city_plate": "07",
+"towns": {
+"83": "Muratpaşa",
+"84": "Kepez",
+"85": "Konyaaltı",
+"86": "Aksu",
+"87": "Döşemealtı",
+"88": "Akseki",
+"89": "Alanya",
+"90": "Elmalı",
+"91": "Finike",
+"92": "Gazipaşa",
+"93": "Gündoğmuş",
+"94": "İbradı(Aydınkent)",
+"95": "Kale(Demre)",
+"96": "Kaş",
+"97": "Kemer",
+"98": "Korkuteli",
+"99": "Kumluca",
+"100": "Manavgat",
+"101": "Serik",
+"963": "Olympos",
+"964": "Çıralı",
+"965": "Kaleiçi"
+}
+},
+"8": {
+"city_name": "Artvin",
+"city_plate": "08",
+"towns": {
+"102": "Artvin",
+"103": "Ardanuç",
+"104": "Arhavi",
+"105": "Borçka",
+"106": "Hopa",
+"107": "Murgul(Göktaş)",
+"108": "Şavşat",
+"109": "Yusufeli"
+}
+},
+"9": {
+"city_name": "Aydın",
+"city_plate": "09",
+"towns": {
+"110": "Aydın",
+"111": "Bozdoğan",
+"112": "Buharkent(Çubukdağı)",
+"113": "Çine",
+"114": "Germencik",
+"115": "İncirliova",
+"116": "Karacasu",
+"117": "Karpuzlu",
+"118": "Koçarlı",
+"119": "Köşk",
+"120": "Kuşadası",
+"121": "Kuyucak",
+"122": "Nazilli",
+"123": "Söke",
+"124": "Sultanhisar",
+"125": "Didim",
+"126": "Yenipazar"
+}
+},
+"10": {
+"city_name": "Balıkesir",
+"city_plate": 10,
+"towns": {
+"127": "Balıkesir",
+"128": "Ayvalık",
+"129": "Balya",
+"130": "Bandırma",
+"131": "Bigadiç",
+"132": "Burhaniye",
+"133": "Dursunbey",
+"134": "Edremit",
+"135": "Erdek",
+"136": "Gömeç",
+"137": "Gönen",
+"138": "Havran",
+"139": "İvrindi",
+"140": "Kepsut",
+"141": "Manyas",
+"142": "Marmara",
+"143": "Savaştepe",
+"144": "Sındırgı",
+"145": "Susurluk"
+}
+},
+"11": {
+"city_name": "Bilecik",
+"city_plate": 11,
+"towns": {
+"146": "Bilecik",
+"147": "Bozüyük",
+"148": "Gölpazarı",
+"149": "İnhisar",
+"150": "Osmaneli",
+"151": "Pazaryeri",
+"152": "Söğüt",
+"153": "Yenipazar"
+}
+},
+"12": {
+"city_name": "Bingöl",
+"city_plate": 12,
+"towns": {
+"154": "Bingöl",
+"155": "Adaklı",
+"156": "Genç",
+"157": "Karlıova",
+"158": "Kığı",
+"159": "Solhan",
+"160": "Yayladere",
+"161": "Yedisu"
+}
+},
+"13": {
+"city_name": "Bitlis",
+"city_plate": 13,
+"towns": {
+"162": "Bitlis",
+"163": "Adilcevaz",
+"164": "Ahlat",
+"165": "Güroymak",
+"166": "Hizan",
+"167": "Mutki",
+"168": "Tatvan"
+}
+},
+"14": {
+"city_name": "Bolu",
+"city_plate": 14,
+"towns": {
+"169": "Bolu",
+"170": "Dörtdivan",
+"171": "Gerede",
+"172": "Göynük",
+"173": "Kıbrıscık",
+"174": "Mengen",
+"175": "Mudurnu",
+"176": "Seben",
+"177": "Yeniçağa"
+}
+},
+"15": {
+"city_name": "Burdur",
+"city_plate": 15,
+"towns": {
+"178": "Burdur",
+"179": "Ağlasun",
+"180": "Altınyayla(Dirmil)",
+"181": "Bucak",
+"182": "Çavdır",
+"183": "Çeltikçi",
+"184": "Gölhisar",
+"185": "Karamanlı",
+"186": "Kemer",
+"187": "Tefenni",
+"188": "Yeşilova"
+}
+},
+"16": {
+"city_name": "Bursa",
+"city_plate": 16,
+"towns": {
+"189": "Nilüfer",
+"190": "Osmangazi",
+"191": "Yıldırım",
+"192": "Büyükorhan",
+"193": "Gemlik",
+"194": "Gürsu",
+"195": "Harmancık",
+"196": "İnegöl",
+"197": "İznik",
+"198": "Karacabey",
+"199": "Keles",
+"200": "Kestel",
+"201": "Mudanya",
+"202": "Mustafakemalpaşa",
+"203": "Orhaneli",
+"204": "Orhangazi",
+"205": "Yenişehir"
+}
+},
+"17": {
+"city_name": "Çanakkale",
+"city_plate": 17,
+"towns": {
+"206": "Çanakkale",
+"207": "Ayvacık-Assos",
+"208": "Bayramiç",
+"209": "Biga",
+"210": "Bozcaada",
+"211": "Çan",
+"212": "Eceabat",
+"213": "Ezine",
+"214": "Gelibolu",
+"215": "Gökçeada(İmroz)",
+"216": "Lapseki",
+"217": "Yenice"
+}
+},
+"18": {
+"city_name": "Çankırı",
+"city_plate": 18,
+"towns": {
+"218": "Çankırı",
+"219": "Atkaracalar",
+"220": "Bayramören",
+"221": "Çerkeş",
+"222": "Eldivan",
+"223": "Ilgaz",
+"224": "Kızılırmak",
+"225": "Korgun",
+"226": "Kurşunlu",
+"227": "Orta",
+"228": "Şabanözü",
+"229": "Yapraklı"
+}
+},
+"19": {
+"city_name": "Çorum",
+"city_plate": 19,
+"towns": {
+"230": "Çorum",
+"231": "Alaca",
+"232": "Bayat",
+"233": "Boğazkale",
+"234": "Dodurga",
+"235": "İskilip",
+"236": "Kargı",
+"237": "Laçin",
+"238": "Mecitözü",
+"239": "Oğuzlar(Karaören)",
+"240": "Ortaköy",
+"241": "Osmancık",
+"242": "Sungurlu",
+"243": "Uğurludağ"
+}
+},
+"20": {
+"city_name": "Denizli",
+"city_plate": 20,
+"towns": {
+"244": "Denizli",
+"245": "Acıpayam",
+"246": "Akköy",
+"247": "Babadağ",
+"248": "Baklan",
+"249": "Bekilli",
+"250": "Beyağaç",
+"251": "Bozkurt",
+"252": "Buldan",
+"253": "Çal",
+"254": "Çameli",
+"255": "Çardak",
+"256": "Çivril",
+"257": "Güney",
+"258": "Honaz",
+"259": "Kale",
+"260": "Sarayköy",
+"261": "Serinhisar",
+"262": "Tavas",
+"962": "Pamukkale",
+"968": "Karahayit"
+}
+},
+"21": {
+"city_name": "Diyarbakır",
+"city_plate": 21,
+"towns": {
+"263": "Sur",
+"264": "Bağlar",
+"265": "Yenişehir",
+"266": "Kayapınar",
+"267": "Bismil",
+"268": "Çermik",
+"269": "Çınar",
+"270": "Çüngüş",
+"271": "Dicle",
+"272": "Eğil",
+"273": "Ergani",
+"274": "Hani",
+"275": "Hazro",
+"276": "Kocaköy",
+"277": "Kulp",
+"278": "Lice",
+"279": "Silvan"
+}
+},
+"22": {
+"city_name": "Edirne",
+"city_plate": 22,
+"towns": {
+"280": "Edirne",
+"281": "Enez",
+"282": "Havsa",
+"283": "İpsala",
+"284": "Keşan",
+"285": "Lalapaşa",
+"286": "Meriç",
+"287": "Süleoğlu(Süloğlu)",
+"288": "Uzunköprü"
+}
+},
+"23": {
+"city_name": "Elazığ",
+"city_plate": 23,
+"towns": {
+"289": "Elazığ",
+"290": "Ağın",
+"291": "Alacakaya",
+"292": "Arıcak",
+"293": "Baskil",
+"294": "Karakoçan",
+"295": "Keban",
+"296": "Kovancılar",
+"297": "Maden",
+"298": "Palu",
+"299": "Sivrice"
+}
+},
+"24": {
+"city_name": "Erzincan",
+"city_plate": 24,
+"towns": {
+"300": "Erzincan",
+"301": "Çayırlı",
+"302": "İliç(Ilıç)",
+"303": "Kemah",
+"304": "Kemaliye",
+"305": "Otlukbeli",
+"306": "Refahiye",
+"307": "Tercan",
+"308": "Üzümlü"
+}
+},
+"25": {
+"city_name": "Erzurum",
+"city_plate": 25,
+"towns": {
+"309": "Palandöken",
+"310": "Yakutiye",
+"311": "Aziziye(Ilıca)",
+"312": "Aşkale",
+"313": "Çat",
+"314": "Hınıs",
+"315": "Horasan",
+"316": "İspir",
+"317": "Karaçoban",
+"318": "Karayazı",
+"319": "Köprüköy",
+"320": "Narman",
+"321": "Oltu",
+"322": "Olur",
+"323": "Pasinler",
+"324": "Pazaryolu",
+"325": "Şenkaya",
+"326": "Tekman",
+"327": "Tortum",
+"328": "Uzundere"
+}
+},
+"26": {
+"city_name": "Eskişehir",
+"city_plate": 26,
+"towns": {
+"329": "Odunpazarı",
+"330": "Tepebaşı",
+"331": "Alpu",
+"332": "Beylikova",
+"333": "Çifteler",
+"334": "Günyüzü",
+"335": "Han",
+"336": "İnönü",
+"337": "Mahmudiye",
+"338": "Mihalgazi",
+"339": "Mihalıçcık",
+"340": "Sarıcakaya",
+"341": "Seyitgazi",
+"342": "Sivrihisar"
+}
+},
+"27": {
+"city_name": "Gaziantep",
+"city_plate": 27,
+"towns": {
+"343": "Şahinbey",
+"344": "Şehitkamil",
+"345": "Oğuzeli",
+"346": "Araban",
+"347": "İslahiye",
+"348": "Karkamış",
+"349": "Nizip",
+"350": "Nurdağı",
+"351": "Yavuzeli"
+}
+},
+"28": {
+"city_name": "Giresun",
+"city_plate": 28,
+"towns": {
+"352": "Giresun",
+"353": "Alucra",
+"354": "Bulancak",
+"355": "Çamoluk",
+"356": "Çanakçı",
+"357": "Dereli",
+"358": "Doğankent",
+"359": "Espiye",
+"360": "Eynesil",
+"361": "Görele",
+"362": "Güce",
+"363": "Keşap",
+"364": "Piraziz",
+"365": "Şebinkarahisar",
+"366": "Tirebolu",
+"367": "Yağlıdere"
+}
+},
+"29": {
+"city_name": "Gümüşhane",
+"city_plate": 29,
+"towns": {
+"368": "Gümüşhane",
+"369": "Kelkit",
+"370": "Köse",
+"371": "Kürtün",
+"372": "Şiran",
+"373": "Torul"
+}
+},
+"30": {
+"city_name": "Hakkari",
+"city_plate": 30,
+"towns": {
+"374": "Hakkari",
+"375": "Çukurca",
+"376": "Şemdinli",
+"377": "Yüksekova"
+}
+},
+"31": {
+"city_name": "Hatay",
+"city_plate": 31,
+"towns": {
+"378": "Antakya",
+"379": "Altınözü",
+"380": "Belen",
+"381": "Dörtyol",
+"382": "Erzin",
+"383": "Hassa",
+"384": "İskenderun",
+"385": "Kırıkhan",
+"386": "Kumlu",
+"387": "Reyhanlı",
+"388": "Samandağ",
+"389": "Yayladağı"
+}
+},
+"32": {
+"city_name": "Isparta",
+"city_plate": 32,
+"towns": {
+"390": "Isparta",
+"391": "Aksu",
+"392": "Atabey",
+"393": "Eğridir(Eğirdir)",
+"394": "Gelendost",
+"395": "Gönen",
+"396": "Keçiborlu",
+"397": "Senirkent",
+"398": "Sütçüler",
+"399": "Şarkikaraağaç",
+"400": "Uluborlu",
+"401": "Yalvaç",
+"402": "Yenişarbademli"
+}
+},
+"33": {
+"city_name": "Mersin",
+"city_plate": 33,
+"towns": {
+"403": "Akdeniz",
+"404": "Yenişehir",
+"405": "Toroslar",
+"406": "Mezitli",
+"407": "Anamur",
+"408": "Aydıncık",
+"409": "Bozyazı",
+"410": "Çamlıyayla",
+"411": "Erdemli",
+"412": "Gülnar(Gülpınar)",
+"413": "Mut",
+"414": "Silifke",
+"415": "Tarsus",
+"967": "Kızkalesi"
+}
+},
+"34": {
+"city_name": "İstanbul",
+"city_plate": 34,
+"towns": {
+"416": "Bakırköy",
+"417": "Bayrampaşa",
+"418": "Beşiktaş",
+"419": "Beyoğlu",
+"420": "Arnavutköy",
+"421": "Eyüp",
+"422": "Fatih",
+"423": "Gaziosmanpaşa",
+"424": "Kağıthane",
+"425": "Küçükçekmece",
+"426": "Sarıyer",
+"427": "Şişli",
+"428": "Zeytinburnu",
+"429": "Avcılar",
+"430": "Güngören",
+"431": "Bahçelievler",
+"432": "Bağcılar",
+"433": "Esenler",
+"434": "Başakşehir",
+"435": "Beylikdüzü",
+"436": "Esenyurt",
+"437": "Sultangazi",
+"438": "Adalar",
+"439": "Beykoz",
+"440": "Kadıköy",
+"441": "Kartal",
+"442": "Pendik",
+"443": "Ümraniye",
+"444": "Üsküdar",
+"445": "Tuzla",
+"446": "Maltepe",
+"447": "Ataşehir",
+"448": "Çekmeköy",
+"449": "Sancaktepe",
+"450": "Büyükçekmece",
+"451": "Çatalca",
+"452": "Silivri",
+"453": "Şile",
+"454": "Sultanbeyli"
+}
+},
+"35": {
+"city_name": "İzmir",
+"city_plate": 35,
+"towns": {
+"455": "Aliağa",
+"456": "Balçova",
+"457": "Bayındır",
+"458": "Bornova",
+"459": "Buca",
+"460": "Çiğli",
+"461": "Foça",
+"462": "Gaziemir",
+"463": "Güzelbahçe",
+"464": "Karşıyaka",
+"465": "Kemalpaşa",
+"466": "Konak",
+"467": "Cumaovası(Menderes)",
+"468": "Menemen",
+"469": "Narlıdere",
+"470": "Seferihisar",
+"471": "Selçuk",
+"472": "Torbalı",
+"473": "Urla",
+"474": "Bayraklı",
+"475": "Karabağlar",
+"476": "Bergama",
+"477": "Beydağ",
+"478": "Çeşme",
+"479": "Dikili",
+"480": "Karaburun",
+"481": "Kınık",
+"482": "Kiraz",
+"483": "Ödemiş",
+"484": "Tire"
+}
+},
+"36": {
+"city_name": "Kars",
+"city_plate": 36,
+"towns": {
+"485": "Kars",
+"486": "Akyaka",
+"487": "Arpaçay",
+"488": "Digor",
+"489": "Kağızman",
+"490": "Sarıkamış",
+"491": "Selim",
+"492": "Susuz"
+}
+},
+"37": {
+"city_name": "Kastamonu",
+"city_plate": 37,
+"towns": {
+"493": "Kastamonu",
+"494": "Abana",
+"495": "Ağlı",
+"496": "Araç",
+"497": "Azdavay",
+"498": "Bozkurt",
+"499": "Cide",
+"500": "Çatalzeytin",
+"501": "Daday",
+"502": "Devrekani",
+"503": "Doğanyurt",
+"504": "Hanönü(Gökçeağaç)",
+"505": "İhsangazi",
+"506": "İnebolu",
+"507": "Küre",
+"508": "Pınarbaşı",
+"509": "Seydiler",
+"510": "Şenpazar",
+"511": "Taşköprü",
+"512": "Tosya"
+}
+},
+"38": {
+"city_name": "Kayseri",
+"city_plate": 38,
+"towns": {
+"513": "Kocasinan",
+"514": "Melikgazi",
+"515": "Talas",
+"516": "Akkışla",
+"517": "Bünyan",
+"518": "Develi",
+"519": "Felahiye",
+"520": "Hacılar",
+"521": "İncesu",
+"522": "Özvatan(Çukur)",
+"523": "Pınarbaşı",
+"524": "Sarıoğlan",
+"525": "Sarız",
+"526": "Tomarza",
+"527": "Yahyalı",
+"528": "Yeşilhisar"
+}
+},
+"39": {
+"city_name": "Kırklareli",
+"city_plate": 39,
+"towns": {
+"529": "Kırklareli",
+"530": "Babaeski",
+"531": "Demirköy",
+"532": "Kofçaz",
+"533": "Lüleburgaz",
+"534": "Pehlivanköy",
+"535": "Pınarhisar",
+"536": "Vize"
+}
+},
+"40": {
+"city_name": "Kırşehir",
+"city_plate": 40,
+"towns": {
+"537": "Kırşehir",
+"538": "Akçakent",
+"539": "Akpınar",
+"540": "Boztepe",
+"541": "Çiçekdağı",
+"542": "Kaman",
+"543": "Mucur"
+}
+},
+"41": {
+"city_name": "Kocaeli",
+"city_plate": 41,
+"towns": {
+"544": "İzmit",
+"545": "Başiskele",
+"546": "Çayırova",
+"547": "Darıca",
+"548": "Dilovası",
+"549": "Kartepe",
+"550": "Gebze",
+"551": "Gölcük",
+"552": "Kandıra",
+"553": "Karamürsel",
+"554": "Tütünçiftlik",
+"555": "Derince"
+}
+},
+"42": {
+"city_name": "Konya",
+"city_plate": 42,
+"towns": {
+"556": "Karatay",
+"557": "Meram",
+"558": "Selçuklu",
+"559": "Ahırlı",
+"560": "Akören",
+"561": "Akşehir",
+"562": "Altınekin",
+"563": "Beyşehir",
+"564": "Bozkır",
+"565": "Cihanbeyli",
+"566": "Çeltik",
+"567": "Çumra",
+"568": "Derbent",
+"569": "Derebucak",
+"570": "Doğanhisar",
+"571": "Emirgazi",
+"572": "Ereğli",
+"573": "Güneysınır",
+"574": "Hadim",
+"575": "Halkapınar",
+"576": "Hüyük",
+"577": "Ilgın",
+"578": "Kadınhanı",
+"579": "Karapınar",
+"580": "Kulu",
+"581": "Sarayönü",
+"582": "Seydişehir",
+"583": "Taşkent",
+"584": "Tuzlukçu",
+"585": "Yalıhüyük",
+"586": "Yunak"
+}
+},
+"43": {
+"city_name": "Kütahya",
+"city_plate": 43,
+"towns": {
+"587": "Kütahya",
+"588": "Altıntaş",
+"589": "Aslanapa",
+"590": "Çavdarhisar",
+"591": "Domaniç",
+"592": "Dumlupınar",
+"593": "Emet",
+"594": "Gediz",
+"595": "Hisarcık",
+"596": "Pazarlar",
+"597": "Simav",
+"598": "Şaphane",
+"599": "Tavşanlı",
+"600": "Tunçbilek"
+}
+},
+"44": {
+"city_name": "Malatya",
+"city_plate": 44,
+"towns": {
+"601": "Malatya",
+"602": "Akçadağ",
+"603": "Arapkir",
+"604": "Arguvan",
+"605": "Battalgazi",
+"606": "Darende",
+"607": "Doğanşehir",
+"608": "Doğanyol",
+"609": "Hekimhan",
+"610": "Kale",
+"611": "Kuluncak",
+"612": "Pötürge",
+"613": "Yazıhan",
+"614": "Yeşilyurt"
+}
+},
+"45": {
+"city_name": "Manisa",
+"city_plate": 45,
+"towns": {
+"615": "Manisa",
+"616": "Ahmetli",
+"617": "Akhisar",
+"618": "Alaşehir",
+"619": "Demirci",
+"620": "Gölmarmara",
+"621": "Gördes",
+"622": "Kırkağaç",
+"623": "Köprübaşı",
+"624": "Kula",
+"625": "Salihli",
+"626": "Sarıgöl",
+"627": "Saruhanlı",
+"628": "Selendi",
+"629": "Soma",
+"630": "Turgutlu"
+}
+},
+"46": {
+"city_name": "Kahramanmaraş",
+"city_plate": 46,
+"towns": {
+"631": "Kahramanmaraş",
+"632": "Afşin",
+"633": "Andırın",
+"634": "Çağlayancerit",
+"635": "Ekinözü",
+"636": "Elbistan",
+"637": "Göksun",
+"638": "Nurhak",
+"639": "Pazarcık",
+"640": "Türkoğlu"
+}
+},
+"47": {
+"city_name": "Mardin",
+"city_plate": 47,
+"towns": {
+"641": "Mardin",
+"642": "Dargeçit",
+"643": "Derik",
+"644": "Kızıltepe",
+"645": "Mazıdağı",
+"646": "Midyat(Estel)",
+"647": "Nusaybin",
+"648": "Ömerli",
+"649": "Savur",
+"650": "Yeşilli"
+}
+},
+"48": {
+"city_name": "Muğla",
+"city_plate": 48,
+"towns": {
+"651": "Muğla",
+"652": "Bodrum",
+"653": "Dalaman",
+"654": "Datça",
+"655": "Fethiye",
+"656": "Kavaklıdere",
+"657": "Köyceğiz",
+"658": "Marmaris",
+"659": "Milas",
+"660": "Ortaca",
+"661": "Ula",
+"662": "Yatağan"
+}
+},
+"49": {
+"city_name": "Muş",
+"city_plate": 49,
+"towns": {
+"663": "Muş",
+"664": "Bulanık",
+"665": "Hasköy",
+"666": "Korkut",
+"667": "Malazgirt",
+"668": "Varto"
+}
+},
+"50": {
+"city_name": "Nevşehir",
+"city_plate": 50,
+"towns": {
+"669": "Nevşehir",
+"670": "Acıgöl",
+"671": "Avanos",
+"672": "Derinkuyu",
+"673": "Gülşehir",
+"674": "Hacıbektaş",
+"675": "Kozaklı",
+"676": "Göreme"
+}
+},
+"51": {
+"city_name": "Niğde",
+"city_plate": 51,
+"towns": {
+"677": "Niğde",
+"678": "Altunhisar",
+"679": "Bor",
+"680": "Çamardı",
+"681": "Çiftlik(Özyurt)",
+"682": "Ulukışla"
+}
+},
+"52": {
+"city_name": "Ordu",
+"city_plate": 52,
+"towns": {
+"683": "Ordu",
+"684": "Akkuş",
+"685": "Aybastı",
+"686": "Çamaş",
+"687": "Çatalpınar",
+"688": "Çaybaşı",
+"689": "Fatsa",
+"690": "Gölköy",
+"691": "Gülyalı",
+"692": "Gürgentepe",
+"693": "İkizce",
+"694": "Karadüz(Kabadüz)",
+"695": "Kabataş",
+"696": "Korgan",
+"697": "Kumru",
+"698": "Mesudiye",
+"699": "Perşembe",
+"700": "Ulubey",
+"701": "Ünye"
+}
+},
+"53": {
+"city_name": "Rize",
+"city_plate": 53,
+"towns": {
+"702": "Rize",
+"703": "Ardeşen",
+"704": "Çamlıhemşin",
+"705": "Çayeli",
+"706": "Derepazarı",
+"707": "Fındıklı",
+"708": "Güneysu",
+"709": "Hemşin",
+"710": "İkizdere",
+"711": "İyidere",
+"712": "Kalkandere",
+"713": "Pazar"
+}
+},
+"54": {
+"city_name": "Sakarya",
+"city_plate": 54,
+"towns": {
+"714": "Adapazarı",
+"715": "Hendek",
+"716": "Arifiye",
+"717": "Erenler",
+"718": "Serdivan",
+"719": "Akyazı",
+"720": "Ferizli",
+"721": "Geyve",
+"722": "Karapürçek",
+"723": "Karasu",
+"724": "Kaynarca",
+"725": "Kocaali",
+"726": "Pamukova",
+"727": "Sapanca",
+"728": "Söğütlü",
+"729": "Taraklı"
+}
+},
+"55": {
+"city_name": "Samsun",
+"city_plate": 55,
+"towns": {
+"730": "Atakum",
+"731": "İlkadım",
+"732": "Canik",
+"733": "Tekkeköy",
+"734": "Alaçam",
+"735": "Asarcık",
+"736": "Ayvacık",
+"737": "Bafra",
+"738": "Çarşamba",
+"739": "Havza",
+"740": "Kavak",
+"741": "Ladik",
+"742": "19Mayıs(Ballıca)",
+"743": "Salıpazarı",
+"744": "Terme",
+"745": "Vezirköprü",
+"746": "Yakakent"
+}
+},
+"56": {
+"city_name": "Siirt",
+"city_plate": 56,
+"towns": {
+"747": "Siirt",
+"748": "Baykan",
+"749": "Eruh",
+"750": "Kurtalan",
+"751": "Pervari",
+"752": "Aydınlar",
+"753": "Şirvan"
+}
+},
+"57": {
+"city_name": "Sinop",
+"city_plate": 57,
+"towns": {
+"754": "Sinop",
+"755": "Ayancık",
+"756": "Boyabat",
+"757": "Dikmen",
+"758": "Durağan",
+"759": "Erfelek",
+"760": "Gerze",
+"761": "Saraydüzü",
+"762": "Türkeli"
+}
+},
+"58": {
+"city_name": "Sivas",
+"city_plate": 58,
+"towns": {
+"763": "Sivas",
+"764": "Akıncılar",
+"765": "Altınyayla",
+"766": "Divriği",
+"767": "Doğanşar",
+"768": "Gemerek",
+"769": "Gölova",
+"770": "Gürün",
+"771": "Hafik",
+"772": "İmranlı",
+"773": "Kangal",
+"774": "Koyulhisar",
+"775": "Suşehri",
+"776": "Şarkışla",
+"777": "Ulaş",
+"778": "Yıldızeli",
+"779": "Zara"
+}
+},
+"59": {
+"city_name": "Tekirdağ",
+"city_plate": 59,
+"towns": {
+"780": "Tekirdağ",
+"781": "Çerkezköy",
+"782": "Çorlu",
+"783": "Hayrabolu",
+"784": "Malkara",
+"785": "Marmaraereğlisi",
+"786": "Muratlı",
+"787": "Saray",
+"788": "Şarköy"
+}
+},
+"60": {
+"city_name": "Tokat",
+"city_plate": 60,
+"towns": {
+"789": "Tokat",
+"790": "Almus",
+"791": "Artova",
+"792": "Başçiftlik",
+"793": "Erbaa",
+"794": "Niksar",
+"795": "Pazar",
+"796": "Reşadiye",
+"797": "Sulusaray",
+"798": "Turhal",
+"799": "Yeşilyurt",
+"800": "Zile"
+}
+},
+"61": {
+"city_name": "Trabzon",
+"city_plate": 61,
+"towns": {
+"801": "Trabzon",
+"802": "Akçaabat",
+"803": "Araklı",
+"804": "Arsin",
+"805": "Beşikdüzü",
+"806": "Çarşıbaşı",
+"807": "Çaykara",
+"808": "Dernekpazarı",
+"809": "Düzköy",
+"810": "Hayrat",
+"811": "Köprübaşı",
+"812": "Maçka",
+"813": "Of",
+"814": "Sürmene",
+"815": "Şalpazarı",
+"816": "Tonya",
+"817": "Vakfıkebir",
+"818": "Yomra",
+"971": "Ortahisar"
+}
+},
+"62": {
+"city_name": "Tunceli",
+"city_plate": 62,
+"towns": {
+"819": "Tunceli",
+"820": "Çemişgezek",
+"821": "Hozat",
+"822": "Mazgirt",
+"823": "Nazımiye",
+"824": "Ovacık",
+"825": "Pertek",
+"826": "Pülümür"
+}
+},
+"63": {
+"city_name": "Şanlıurfa",
+"city_plate": 63,
+"towns": {
+"827": "Şanlıurfa",
+"828": "Akçakale",
+"829": "Birecik",
+"830": "Bozova",
+"831": "Ceylanpınar",
+"832": "Halfeti",
+"833": "Harran",
+"834": "Hilvan",
+"835": "Siverek",
+"836": "Suruç",
+"837": "Viranşehir"
+}
+},
+"64": {
+"city_name": "Uşak",
+"city_plate": 64,
+"towns": {
+"838": "Uşak",
+"839": "Banaz",
+"840": "Eşme",
+"841": "Karahallı",
+"842": "Sivaslı",
+"843": "Ulubey"
+}
+},
+"65": {
+"city_name": "Van",
+"city_plate": 65,
+"towns": {
+"844": "Van",
+"845": "Bahçesaray",
+"846": "Başkale",
+"847": "Çaldıran",
+"848": "Çatak",
+"849": "Edremit(Gümüşdere)",
+"850": "Erciş",
+"851": "Gevaş",
+"852": "Gürpınar",
+"853": "Muradiye",
+"854": "Özalp",
+"855": "Saray"
+}
+},
+"66": {
+"city_name": "Yozgat",
+"city_plate": 66,
+"towns": {
+"856": "Yozgat",
+"857": "Akdağmadeni",
+"858": "Aydıncık",
+"859": "Boğazlıyan",
+"860": "Çandır",
+"861": "Çayıralan",
+"862": "Çekerek",
+"863": "Kadışehri",
+"864": "Saraykent",
+"865": "Sarıkaya",
+"866": "Sorgun",
+"867": "Şefaatli",
+"868": "Yenifakılı",
+"869": "Yerköy"
+}
+},
+"67": {
+"city_name": "Zonguldak",
+"city_plate": 67,
+"towns": {
+"870": "Zonguldak",
+"871": "Alaplı",
+"872": "Çaycuma",
+"873": "Devrek",
+"874": "Karadenizereğli",
+"875": "Gökçebey"
+}
+},
+"68": {
+"city_name": "Aksaray",
+"city_plate": 68,
+"towns": {
+"876": "Aksaray",
+"877": "Ağaçören",
+"878": "Eskil",
+"879": "Gülağaç(Ağaçlı)",
+"880": "Güzelyurt",
+"881": "Ortaköy",
+"882": "Sarıyahşi"
+}
+},
+"69": {
+"city_name": "Bayburt",
+"city_plate": 69,
+"towns": {
+"883": "Bayburt",
+"884": "Aydıntepe",
+"885": "Demirözü"
+}
+},
+"70": {
+"city_name": "Karaman",
+"city_plate": 70,
+"towns": {
+"886": "Karaman",
+"887": "Ayrancı",
+"888": "Başyayla",
+"889": "Ermenek",
+"890": "Kazımkarabekir",
+"891": "Sarıveliler"
+}
+},
+"71": {
+"city_name": "Kırıkkale",
+"city_plate": 71,
+"towns": {
+"892": "Kırıkkale",
+"893": "Bahşili",
+"894": "Balışeyh",
+"895": "Çelebi",
+"896": "Delice",
+"897": "Karakeçili",
+"898": "Keskin",
+"899": "Sulakyurt",
+"900": "Yahşihan"
+}
+},
+"72": {
+"city_name": "Batman",
+"city_plate": 72,
+"towns": {
+"901": "Batman",
+"902": "Beşiri",
+"903": "Gercüş",
+"904": "Hasankeyf",
+"905": "Kozluk",
+"906": "Sason"
+}
+},
+"73": {
+"city_name": "Şırnak",
+"city_plate": 73,
+"towns": {
+"907": "Şırnak",
+"908": "Beytüşşebap",
+"909": "Cizre",
+"910": "Güçlükonak",
+"911": "İdil",
+"912": "Silopi",
+"913": "Uludere"
+}
+},
+"74": {
+"city_name": "Bartın",
+"city_plate": 74,
+"towns": {
+"914": "Bartın",
+"915": "Amasra",
+"916": "Kurucaşile",
+"917": "Ulus"
+}
+},
+"75": {
+"city_name": "Ardahan",
+"city_plate": 75,
+"towns": {
+"918": "Ardahan",
+"919": "Çıldır",
+"920": "Damal",
+"921": "Göle",
+"922": "Hanak",
+"923": "Posof"
+}
+},
+"76": {
+"city_name": "Iğdır",
+"city_plate": 76,
+"towns": {
+"924": "Iğdır",
+"925": "Aralık",
+"926": "Karakoyunlu",
+"927": "Tuzluca"
+}
+},
+"77": {
+"city_name": "Yalova",
+"city_plate": 77,
+"towns": {
+"928": "Yalova",
+"929": "Altınova",
+"930": "Armutlu",
+"931": "Çiftlikköy",
+"932": "Çınarcık",
+"933": "Termal"
+}
+},
+"78": {
+"city_name": "Karabük",
+"city_plate": 78,
+"towns": {
+"934": "Karabük",
+"935": "Eflani",
+"936": "Eskipazar",
+"937": "Ovacık",
+"938": "Safranbolu",
+"939": "Yenice"
+}
+},
+"79": {
+"city_name": "Kilis",
+"city_plate": 79,
+"towns": {
+"940": "Kilis",
+"941": "Elbeyli",
+"942": "Musabeyli",
+"943": "Polateli"
+}
+},
+"80": {
+"city_name": "Osmaniye",
+"city_plate": 80,
+"towns": {
+"944": "Osmaniye",
+"945": "Bahçe",
+"946": "Düziçi",
+"947": "Hasanbeyli",
+"948": "Kadirli",
+"949": "Sumbas",
+"950": "Toprakkale"
+}
+},
+"81": {
+"city_name": "Düzce",
+"city_plate": 81
+}
+}
